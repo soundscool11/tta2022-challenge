@@ -39,7 +39,10 @@ Below you will find the screenshots of the stops we have done.
 ## User-Story
 
 ```
-test
+AS A new software developer
+I WANT to host a Web Application with Azure App Service
+and I WANT to be able to collaborate with other developers using GitHub
+SO THAT on team projects, I can build and host Web Applications using Azure.
 ```
 
 ## Acceptance-Criteria
