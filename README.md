@@ -48,7 +48,15 @@ SO THAT on team projects, I can build and host Web Applications using Azure.
 ## Acceptance-Criteria
 
 ```
-test
+GIVEN I want to deploy a Web Application service to Microsoft Azure
+WHEN I review the Microsoft Passport Challenge document for TechTogether Atlanta Hackathon
+THEN I sign up for an Microsoft Azure for Students
+WHEN I successfully sign up for an Microsoft Azure student account
+THEN I take a screenshot
+WHEN I create a GitHub repository
+THEN I take a screenshot
+WHEN I deploy a Web Application service to Microsoft Azure
+THEN I take a screenshot
 ```
 
 ## Breakdown-of-roles
