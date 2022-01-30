@@ -77,9 +77,6 @@ THEN I take a screenshot
   - Deployed README
   - Submitted project for review
 
-## Finished-Demo
-Find our final demo here: https://siwon-kim.github.io/techtogether-atlanta-microsoft-azure-challenge/
-
 ## Resources-Used
 
 - TechTogether Atlanta Hackathon Microsoft Azure resources
