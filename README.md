@@ -78,11 +78,7 @@ THEN I take a screenshot
   - Submitted project for review
 
 ## Finished-Demo
-
-```
-test
-
-```
+Find our final demo here: https://siwon-kim.github.io/techtogether-atlanta-microsoft-azure-challenge/
 
 ## Resources-Used
 
