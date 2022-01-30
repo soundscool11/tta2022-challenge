@@ -24,15 +24,15 @@ We then used Azure App Service to host our Web Application that describes our ex
 Below you will find the screenshots of the stops we have done.
 ```
 
-# STOP 1. Create a Microsoft Azure student account
+## STOP 1. Create a Microsoft Azure student account
 
 ![stop-1-techtogether](https://user-images.githubusercontent.com/76824986/151708290-ec2c9edb-48ed-478f-bd0d-c75ca376c0cc.PNG)
 
-# STOP 2. Create a GitHub repository
+## STOP 2. Create a GitHub repository
 
 ![stop-2-techtogether](https://user-images.githubusercontent.com/76824986/151708337-81234fcd-da65-4d91-ba03-4405713d5dcf.PNG)
 
-# STOP 3. Deploy a service to Azure
+## STOP 3. Deploy a service to Azure
 
 ![stop-3-techtogether](https://user-images.githubusercontent.com/76824986/151708347-6135a791-c1df-4273-a8f7-12c486a8d53a.PNG)
 
