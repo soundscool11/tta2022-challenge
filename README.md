@@ -61,36 +61,48 @@ THEN I take a screenshot
 
 ## Breakdown-of-roles
 
-```
-test
-```
+- **Kayleigh**: provided instruction on Git, GitHub, GitHub Projects, and GitFlow.
+- **Siwon**: created a Microsoft Azure student account and GitHub repository, and deployed a Web Application to Azure
 
 ## Schedule
 
-```
-test
-```
+- **Saturday** (1/29)
+
+  - Created Microsoft Azure Student Account
+  - Created GitHub repository and project board
+  - Hosted an Azure Web Application
+
+- **Sunday** (1/30)
+  - Completed README
+  - Deployed README
+  - Submitted project for review
 
 ## Finished-Demo
 
 ```
 test
+
 ```
 
 ## Resources-Used
 
-```
-test
-```
+- TechTogether Atlanta Hackathon Microsoft Azure resources
+- Microsoft Azure Docs
+- GitHub Docs
+- TechTogether Atlanta Hackathon Mentor zoom meeting
+
 
 ## Technologies-Used
 
-```
-test
-```
+- Microsoft Azure
+- GitHub
+- Visual Studio Code
 
 ## Contact
 
-```
-test
-```
+Please feel free to contact us with any questions you might have, using the following information:
+
+| Name                | Email                                        | GitHub                                                               |
+| ------------------- | -------------------------------------------- | -------------------------------------------------------------------- |
+| Siwon Kim           |  [siwonkim1108@gmail.com](siwonkim1108@gmail.com) | [https://github.com/Siwon-Kim](https://github.com/Siwon-Kim)    |
+| Kayleigh Hanna      | [kayleighchanna@gmail.com](mailto:kayleighchanna@gmail.com) | [https://github.com/K-league](https://github.com/K-league)           |
