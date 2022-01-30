@@ -26,15 +26,15 @@ Below you will find the screenshots of the stops we have done.
 
 # STOP 1. Create a Microsoft Azure student account
 
-![Stop 1 screen](./assets/stop-1-techtogether.png)
+![stop-1-techtogether](https://user-images.githubusercontent.com/76824986/151708290-ec2c9edb-48ed-478f-bd0d-c75ca376c0cc.PNG)
 
 # STOP 2. Create a GitHub repository
 
-![Stop 2 screen](./assets/stop-2-techtogether.png)
+![stop-2-techtogether](https://user-images.githubusercontent.com/76824986/151708337-81234fcd-da65-4d91-ba03-4405713d5dcf.PNG)
 
 # STOP 3. Deploy a service to Azure
 
-![Stop 3 screen](./assets/stop-3-techtogether.png)
+![stop-3-techtogether](https://user-images.githubusercontent.com/76824986/151708347-6135a791-c1df-4273-a8f7-12c486a8d53a.PNG)
 
 ## User-Story
 
